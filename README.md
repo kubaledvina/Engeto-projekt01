@@ -1,1 +1,1 @@
-Oprava cyklů na Komprehence, změna názvů proměnýc, noivé textové zadání
+Oprava cyklů na komprehence, změna názvů proměných, nové textové zadání
